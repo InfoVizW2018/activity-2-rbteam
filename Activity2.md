@@ -1,4 +1,6 @@
 # InfoViz Activity 2
+By Randy Cho, Baylee Munro
+
 ## Design
 **As per the activity description, Seaspan desires…**
 * The ability to adapt their schedule based on current load information
