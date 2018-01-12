@@ -7,6 +7,8 @@ By Randy Cho, Baylee Munro
 * Manual control over the schedule
 * A visual way to examine possible schedules
 
+![Design](https://i.imgur.com/de2Yz9y.png)
+
 We have designed a 2D “Live Map” interface with mouse-over functionality that provides information. Our design includes a map encompassing all Seaspan routes, as included in the data package. In our sample, we have provided two sample berths as well as a ferry en route.
 
 **With this design, we can see:**
